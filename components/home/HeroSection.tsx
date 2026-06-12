@@ -1,7 +1,7 @@
 import { Button } from "../ui/button";
 import Link from "next/link";
 import { Brain, Play, ArrowRight } from "lucide-react";
-import heroNetwork from "@/assets/hero-network.jpg";
+const heroNetwork = "/assets/hero-network.jpg";
 
 const HeroSection = () => {
   return (

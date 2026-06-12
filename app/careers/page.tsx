@@ -32,7 +32,7 @@ const jobPostingSchema = {
     "@type": "Organization",
     name: "Bold Vision MultiTech",
     sameAs: SITE_URL,
-    logo: `${SITE_URL}/assets/bvm-logo.png`,
+    logo: `${SITE_URL}/logo.png`,
   },
   jobLocation: {
     "@type": "Place",

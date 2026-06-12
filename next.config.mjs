@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    // Netlify's /_next/image handler returns 502 for local public/ assets.
+    // Files in public/ are already optimized; serve them directly.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",

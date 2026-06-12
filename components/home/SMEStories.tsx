@@ -1,7 +1,7 @@
 import Image from "next/image";
-import story1 from "@/assets/sme-story-1.jpg";
-import story2 from "@/assets/sme-story-2.jpg";
-import story3 from "@/assets/sme-story-3.jpg";
+const story1 = "/assets/sme-story-1.jpg";
+const story2 = "/assets/sme-story-2.jpg";
+const story3 = "/assets/sme-story-3.jpg";
 
 const SMEStories = () => {
   const stories = [
