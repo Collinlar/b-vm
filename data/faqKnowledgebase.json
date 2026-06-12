@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "title": "Bold Vision MultiTech: FAQ & Knowledgebase",
+    "description": "Find answers about BVM Digital, BVM Technologies, BVM Academy, AscendSME, TrustShield, Business Brain, BVM MCP Server, and how we work across the full Bold Vision MultiTech group.",
+    "version": "1.2",
+    "generated": "2026-06-10",
+    "total_entries": 72,
+    "featured_entries": 10,
+    "categories": [
+      {
+        "id": "bvm",
+        "label": "About BVM",
+        "count": 11
+      },
+      {
+        "id": "digital",
+        "label": "BVM Digital",
+        "count": 7
+      },
+      {
+        "id": "web",
+        "label": "Website services",
+        "count": 7
+      },
+      {
+        "id": "seo",
+        "label": "SEO & PEO",
+        "count": 7
+      },
+      {
+        "id": "ai",
+        "label": "AI Consulting",
+        "count": 6
+      },
+      {
+        "id": "ascend",
+        "label": "AscendSME",
+        "count": 8
+      },
+      {
+        "id": "products",
+        "label": "BVM Products",
+        "count": 10
+      },
+      {
+        "id": "partner",
+        "label": "Partnerships",
+        "count": 5
+      },
+      {
+        "id": "general",
+        "label": "Working with BVM",
+        "count": 11
+      }
+    ],
+    "source": "BVM FAQ & Knowledgebase Builder",
+    "website": "b-vm.com",
+    "ascendsme": "ascendsme.africa"
+  },
+  "entries": [
+    {
+      "id": "bvm1",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": true,
+      "question": "What is Bold Vision MultiTech?",
+      "answer": "Bold Vision MultiTech (BVM) is a technology solutions group based in Accra, Ghana. Founded in 2016, BVM has evolved from a digital services agency into a seven-entity technology group that builds proprietary products, delivers digital and enterprise services, and develops the infrastructure African businesses need to operate, compete, and become investment-ready.\n\nThe seven entities:\n\n• BVM Digital: digital services arm delivering web design, SEO, PEO, and AI consulting for SMEs\n• BVM Technologies: enterprise infrastructure arm serving large organisations, institutions, and government\n• AscendSME: all-in-one business management platform for African SMEs with the Sustainability Score\n• BVM Academy: digital literacy and AI training institution with four tiers from free to BVM Certified Professional\n• BVM TrustShield: trust infrastructure for digital commerce including verified seller profiles and transaction escrow\n• BVM MCP Server: Model Context Protocol infrastructure connecting AI agents to BVM's data layer\n• Bold Vision MultiTech: the parent company and group holding entity"
+    },
+    {
+      "id": "bvm2",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What does BVM stand for?",
+      "answer": "BVM stands for Bold Vision MultiTech. The name reflects the company's founding conviction that building Africa's business infrastructure requires bold vision and multi-dimensional technology thinking. The group operates across digital services, proprietary software products, AI tools, and business management platforms."
+    },
+    {
+      "id": "bvm3",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "When was BVM founded and where is it based?",
+      "answer": "Bold Vision MultiTech was founded in 2016 in Accra, Ghana. It began as a digital services company and evolved into a technology solutions group over its first decade. The company remains headquartered in Accra and serves clients across Ghana and the broader African continent."
+    },
+    {
+      "id": "bvm4",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": true,
+      "question": "What is the difference between Bold Vision MultiTech and BVM Digital?",
+      "answer": "Bold Vision MultiTech is a seven-entity technology group. BVM Digital is one entity within that group. The key distinction:\n\n• Bold Vision MultiTech is the parent company and group holding entity. It owns and oversees all seven subsidiaries and product lines.\n• BVM Digital is the SME-focused digital services arm: web design, SEO, Prompt Engine Optimization, and AI consulting.\n• BVM Technologies is the enterprise infrastructure arm serving large organisations and government.\n• AscendSME, BVM Academy, TrustShield, and BVM MCP Server are the product and platform entities.\n\nBVM Digital is the most client-facing entity for SMEs. BVM Technologies serves institutional and enterprise clients. The products serve both markets."
+    },
+    {
+      "id": "bvm5",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What is BVM's mission and vision?",
+      "answer": "BVM's mission is to build the tools, systems, and intelligence that give African businesses the infrastructure to grow with structure, compete with confidence, and be seen by the world.\n\nBVM's vision is a continent where no business is held back by the absence of tools, and where doing business well is enough to be investment-ready."
+    },
+    {
+      "id": "bvm6",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "Who founded BVM?",
+      "answer": "Bold Vision MultiTech was founded by Collins Lartey, who serves as the company's Founder and Visionary. Collins founded the company in 2016 with the belief that African businesses deserve access to the same quality of digital tools and infrastructure available globally. He is also the visionary behind AscendSME."
+    },
+    {
+      "id": "bvm7",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What industries does BVM serve?",
+      "answer": "BVM's products and services are designed primarily for SMEs across Ghana and Africa, and are most relevant to:\n\n• Retail and trade businesses\n• Service providers and professional services including accountants, lawyers, and consultants\n• Food and hospitality businesses\n• Technology startups and digital businesses\n• Healthcare and education organisations\n• Any business managing inventory, customers, finances, and a team"
+    },
+    {
+      "id": "bvm8",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "Does BVM only operate in Ghana?",
+      "answer": "BVM is headquartered in Accra, Ghana, and its primary focus is on Ghanaian SMEs. However, its products, particularly AscendSME, are built for the broader African market, and BVM Digital serves clients beyond Ghana's borders. The company's vision is explicitly continent-wide."
+    },
+    {
+      "id": "bvm9",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What is BVM's relationship to Africa's tech ecosystem?",
+      "answer": "BVM positions itself as an active builder of Africa's business infrastructure through:\n\n• Products designed specifically for the structural challenges facing African SMEs\n• The AscendSME Sustainability Score, which bridges operational business data and investment ecosystems\n• Partnerships with institutional bodies, development organisations, and fintech platforms across the continent\n• The Digital Literacy Programme contributing to broader digital inclusion for African business owners"
+    },
+    {
+      "id": "dig1",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": true,
+      "question": "What services does BVM Digital offer?",
+      "answer": "BVM Digital offers three core services:\n\n• Website Design and Development: brand-aligned, conversion-focused, mobile-first websites built for African SMEs\n• SEO and Prompt Engine Optimization (PEO): making businesses discoverable on Google and in AI model recommendations\n• Automation and AI Consulting: practical AI strategy, training, and implementation for business owners and their teams\n\nA fourth service, the Digital Literacy Programme for Business Owners, is currently in development.\n\nBVM Digital has its own dedicated website at bvm-digital.com."
+    },
+    {
+      "id": "dig2",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "Is BVM Digital a typical agency?",
+      "answer": "BVM Digital is not a traditional digital agency:\n\n• Traditional agencies do everything for everyone. BVM Digital focuses on three services done exceptionally.\n• Traditional agencies measure success by deliverables. BVM Digital measures success by what changes in your business.\n• Traditional agencies work project-to-project. BVM Digital builds long-term partnerships.\n• Traditional agencies use generic playbooks. BVM Digital builds every strategy around the African market specifically."
+    },
+    {
+      "id": "dig3",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "Who is BVM Digital built for?",
+      "answer": "BVM Digital is built for SMEs in Ghana and across Africa, particularly businesses that:\n\n• Have no digital presence and need to build a foundation\n• Have a website that is not generating leads or enquiries\n• Want to improve visibility on Google and in AI search results\n• Are curious about AI but do not know where to start for their specific business\n• Want a long-term digital partner, not a one-off project vendor"
+    },
+    {
+      "id": "dig4",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "How does BVM Digital measure success?",
+      "answer": "BVM Digital measures success by business outcomes, not deliverables. Before any project begins, we agree on specific measurable outcomes: leads generated, rankings achieved, AI mentions acquired, time saved through automation, or team AI adoption rates. A project is only successful when something measurable changes in the business."
+    },
+    {
+      "id": "dig5",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "How do I get started with BVM Digital?",
+      "answer": "The process is straightforward:\n\n• Visit https://b-vm.com and use the contact form\n• Tell us about your business, your biggest digital challenge, and what you want to change in the next 90 days\n• We will respond within 5 business days with a clear recommendation on where to start\n\nThere is no obligation in the first conversation. We want to understand your business before recommending anything."
+    },
+    {
+      "id": "dig6",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "Does BVM Digital offer one-off projects or only long-term retainers?",
+      "answer": "BVM Digital works on both:\n\n• Website design and development is typically a defined project with a clear scope and timeline\n• SEO and PEO are most effective as ongoing engagements since visibility takes time and requires sustained effort\n• AI consulting can begin as a defined assessment project with implementation support ongoing"
+    },
+    {
+      "id": "dig7",
+      "category_id": "digital",
+      "category_label": "BVM Digital",
+      "featured": false,
+      "question": "What makes BVM Digital different from other agencies in Ghana?",
+      "answer": "Several things distinguish BVM Digital:\n\n• Africa-first thinking: every strategy is built for the Ghanaian and African business environment\n• Focus: three services done exceptionally rather than everything done mediocrely\n• PEO capability: one of the only firms in Ghana building AI discoverability strategies for SMEs\n• Ecosystem integration: clients benefit from BVM's proprietary products that no other agency can offer\n• Outcome orientation: we measure what changes in your business, not what we produced"
+    },
+    {
+      "id": "web1",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "What does BVM Digital include in a website project?",
+      "answer": "Every BVM Digital website project includes:\n\n• Discovery: understanding your business, audience, and goals before any design begins\n• Strategy and architecture: planning page structure, content hierarchy, and conversion flows\n• Brand-aligned design: visual design that reflects your actual identity, not a template\n• Mobile-first fast-loading development: optimised for Ghana's mobile-heavy internet landscape\n• SEO-ready foundations: clean code, metadata, schema, and sitemaps from day one\n• CMS setup: so you can manage your own content after launch without needing to call us\n• Launch and handover: including training on managing your website"
+    },
+    {
+      "id": "web2",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "How long does it take to build a website with BVM Digital?",
+      "answer": "Timelines vary by scope:\n\n• A standard SME website of 5 to 8 pages typically takes 4 to 6 weeks from kick-off to launch\n• More complex sites with e-commerce or custom integrations may take 8 to 12 weeks\n\nWe agree on a realistic timeline before work begins and communicate proactively if anything changes."
+    },
+    {
+      "id": "web3",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "Will I be able to update my own website content after launch?",
+      "answer": "Yes. BVM Digital builds every website with a content management system (CMS) that allows you to update text, images, and blog posts without any coding knowledge. We provide full training at handover. You should never need to call your web agency every time you want to change a line of text."
+    },
+    {
+      "id": "web4",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "Does BVM Digital build e-commerce websites?",
+      "answer": "Yes. BVM Digital builds e-commerce websites for SMEs integrated with Ghanaian payment methods including mobile money and card payments. For SMEs using AscendSME, there is also a native shop module within the platform connected directly to inventory and order management."
+    },
+    {
+      "id": "web5",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "Why is website speed important and how does BVM address it?",
+      "answer": "Every additional second of loading time costs approximately 7 percent of your visitors, and Google uses page speed as a ranking signal. BVM Digital addresses speed by compressing all images, minimising code, choosing hosting optimised for African network conditions, and testing across multiple devices before launch."
+    },
+    {
+      "id": "web6",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "What is the BVM Digital website development process?",
+      "answer": "BVM Digital follows five steps:\n\n• Discovery: learn your business, audience, goals, and competitive context\n• Strategy and structure: plan page architecture, content hierarchy, and conversion flows\n• Design: brand-aligned visual designs that convert your target audience\n• Development: built fast, mobile-first, and SEO-ready, tested across devices before launch\n• Launch and handover: training on managing content and ongoing support options"
+    },
+    {
+      "id": "web7",
+      "category_id": "web",
+      "category_label": "Website services",
+      "featured": false,
+      "question": "Does BVM build websites for businesses outside Ghana?",
+      "answer": "Yes. BVM Digital builds websites for businesses across Africa. Our design and development approach is Africa-first, accounting for mobile-heavy user behaviour, local payment integrations, and connectivity realities across the continent."
+    },
+    {
+      "id": "seo1",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": true,
+      "question": "What is SEO and why does my business need it?",
+      "answer": "SEO (Search Engine Optimization) is the practice of making your website discoverable and trustworthy to search engines like Google so your business appears in results when potential customers search for what you offer.\n\nFor SMEs in Ghana, SEO is one of the highest-ROI digital investments available. Unlike paid advertising, SEO keeps working after you have stopped paying, and appearing on page one captures customers at the exact moment they are ready to buy."
+    },
+    {
+      "id": "seo2",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": true,
+      "question": "What is PEO and how is it different from SEO?",
+      "answer": "PEO (Prompt Engine Optimization) is BVM Digital's approach to making your business discoverable and recommendable by AI language models, not just search engines.\n\n• SEO optimises for Google's algorithm so you appear in traditional search results\n• PEO optimises for AI models including ChatGPT, Google Gemini, Claude, and Perplexity so you appear in AI-generated recommendations and answers\n\nAs more customers ask AI tools who they should hire for a service in Ghana, PEO ensures your business is in the answer. BVM Digital is one of the only firms in Ghana actively building PEO strategies for SMEs."
+    },
+    {
+      "id": "seo3",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": false,
+      "question": "How does PEO actually work?",
+      "answer": "PEO works by structuring your online presence so AI models can discover, learn about, and confidently reference your brand through:\n\n• Well-structured FAQ and knowledgebase content that AI models can read and learn from\n• Published thought leadership and expert content in your industry\n• Brand citations and consistent mentions across multiple credible sources\n• Clearly defined service descriptions and entity information\n• Structured data markup that helps AI understand your business clearly"
+    },
+    {
+      "id": "seo4",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": false,
+      "question": "How long does SEO take to show results?",
+      "answer": "General timelines:\n\n• Technical SEO fixes can improve rankings within 4 to 8 weeks\n• Keyword ranking improvements typically become measurable within 3 to 6 months\n• Significant organic traffic increases usually appear at the 6 to 12 month mark\n• PEO results can emerge faster where content architecture is strong\n\nAny agency promising page-one rankings in 2 weeks should be treated with significant scepticism."
+    },
+    {
+      "id": "seo5",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": false,
+      "question": "Does BVM Digital create content as part of SEO?",
+      "answer": "Yes. Content creation is a core component of BVM Digital's SEO and PEO strategy. We create blog posts and articles answering your customers' most common questions, FAQ content structured specifically for AI model discoverability, knowledgebase entries for your industry and services, and thought leadership content positioning your business as an expert source."
+    },
+    {
+      "id": "seo6",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": false,
+      "question": "Can BVM help if I already have a website but no SEO?",
+      "answer": "Yes. This is one of the most common situations we work with. BVM Digital will conduct a full technical SEO audit, prioritise fixes by impact, build the content and link structure needed for ranking authority, and layer in PEO strategy for AI discoverability alongside traditional SEO."
+    },
+    {
+      "id": "seo7",
+      "category_id": "seo",
+      "category_label": "SEO & PEO",
+      "featured": false,
+      "question": "What is included in BVM Digital's full SEO and PEO service?",
+      "answer": "BVM Digital's SEO and PEO service includes:\n\n• Full technical SEO audit and remediation\n• Keyword strategy tailored to your industry, location, and target customer\n• On-page optimisation covering titles, meta descriptions, headings, and content structure\n• Off-page optimisation including backlinks, brand citations, and authority building\n• PEO layer with FAQ and knowledgebase content structured for AI discoverability\n• Google Business Profile optimisation\n• Monthly performance reporting covering rankings, traffic, AI mentions, and leads"
+    },
+    {
+      "id": "ai1",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": true,
+      "question": "What is BVM Digital's AI Consulting service?",
+      "answer": "BVM Digital's AI Consulting service helps business owners and their teams understand what artificial intelligence means specifically for their business and implement it practically. The service operates in two modes:\n\n• Consulting: strategic sessions with founders and leadership to define what AI means for their business model and operations\n• Training: hands-on practical workshops for business owners and their teams using real AI tools relevant to their industry\n\nThis is AI made practical for business owners, not a technical briefing for IT teams."
+    },
+    {
+      "id": "ai2",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": false,
+      "question": "What does the AI consulting process look like?",
+      "answer": "BVM Digital's AI consulting follows five phases:\n\n• Assessment: an honest evaluation of where the business stands and where AI could realistically create value\n• Strategy: a business-specific AI roadmap built around how the client actually operates\n• Training: practical sessions using real AI tools relevant to the business's industry and roles\n• Implementation: walking alongside the client through actual tool integration and workflow redesign\n• Ongoing advisory: staying available as the AI landscape evolves"
+    },
+    {
+      "id": "ai3",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": false,
+      "question": "Do I need technical knowledge to benefit from AI consulting?",
+      "answer": "No. BVM Digital's AI consulting is specifically designed for business owners and managers who are not technical. We explain everything in plain language, use practical examples from your industry, and train on real tools you will actually use. The most common starting point is: I have heard about AI but I do not know where to start for my business. That is exactly who this service was built for."
+    },
+    {
+      "id": "ai4",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": false,
+      "question": "What kinds of tasks can AI automate for my business?",
+      "answer": "AI and automation can handle a wide range of repetitive business tasks including:\n\n• Customer enquiry responses via WhatsApp and email\n• Lead qualification and routing to sales teams\n• Invoice generation and payment reminders\n• Social media content creation and scheduling\n• Weekly performance reports and data summaries\n• Product description writing and content drafting\n• Market research and competitor monitoring"
+    },
+    {
+      "id": "ai5",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": false,
+      "question": "Which AI tools does BVM Digital help businesses implement?",
+      "answer": "BVM Digital's AI consulting is tool-agnostic. Common tools we work with include:\n\n• ChatGPT and Claude for content creation, drafting, and customer communication\n• Google Gemini for research, summarisation, and analysis\n• Canva AI for design and visual content creation\n• CapCut AI for video content production\n• WhatsApp Business API tools for customer service automation\n• Workflow automation platforms for connecting business tools without coding"
+    },
+    {
+      "id": "ai6",
+      "category_id": "ai",
+      "category_label": "AI Consulting",
+      "featured": false,
+      "question": "What is the Digital Literacy Programme for Business Owners?",
+      "answer": "The Digital Literacy Programme is an upcoming initiative from BVM Digital designed to close the digital knowledge gap for business owners across Ghana and Africa. It is a structured programme covering digital tools, online presence, AI basics, automation fundamentals, and digital security, delivered through workshops, cohort programmes, and self-paced modules. Launch details will be announced at https://b-vm.com."
+    },
+    {
+      "id": "asc1",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": true,
+      "question": "What is AscendSME?",
+      "answer": "AscendSME is Bold Vision MultiTech's flagship product, an all-in-one business management platform built specifically for African SMEs. It brings every critical business function into one connected platform, eliminating the fragmentation problem that costs most SMEs time, money, and credibility.\n\nAscendSME includes modules for Invoicing, Receipts, Inventory, Shop, CRM, Finance, HRM, Account Manager, and a Service Marketplace, all sharing a single data layer so every module is connected to every other. Visit https://ascendsme.africa"
+    },
+    {
+      "id": "asc2",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "What problem does AscendSME solve?",
+      "answer": "AscendSME solves the fragmentation problem. Most SMEs in Africa run their business across disconnected tools: invoicing in one app, inventory in a spreadsheet, customer records in WhatsApp, finances in a notebook. Nothing talks to anything.\n\nAscendSME connects all of these functions in one platform and creates a single source of truth for the entire business. It also builds the Sustainability Score, a verifiable investment credibility track record generated automatically from how the business actually operates."
+    },
+    {
+      "id": "asc3",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": true,
+      "question": "What is the AscendSME Sustainability Score?",
+      "answer": "The Sustainability Score is AscendSME's most distinctive feature: a proprietary metric that transforms a business's real operational behaviour into a verifiable investment credibility score.\n\n• As a business manages operations on AscendSME, the platform records real behavioural data from invoicing, inventory, CRM, and finance\n• This data generates a Sustainability Score reflecting how the business actually operates, not a self-reported pitch deck\n• The score serves as a credible data-backed track record that investors and funders can rely on\n\nThe more a business runs on AscendSME, the stronger its score and the stronger its case for investment and funding."
+    },
+    {
+      "id": "asc4",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "What modules are included in AscendSME?",
+      "answer": "AscendSME includes nine fully integrated modules:\n\n• Invoicing: create, send, and track invoices and payments\n• Receipts: record and manage all business receipts\n• Inventory: real-time stock management linked to sales and orders\n• Shop: sell online directly through the platform\n• CRM: manage customer relationships, history, and follow-ups\n• Finance: profit and loss, cash flow, and financial health tracking\n• HRM: human resource management for teams\n• Account Manager: built-in digital support to help businesses get the most from the platform\n• Service Marketplace: a curated directory of service providers within the BVM ecosystem"
+    },
+    {
+      "id": "asc5",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "How is AscendSME different from using separate apps?",
+      "answer": "Using separate tools creates four core problems AscendSME eliminates:\n\n• Repeated data entry: information entered once in AscendSME is available everywhere across the platform\n• Data loss: no more information siloed across apps\n• No whole-business view: AscendSME gives the full picture in one dashboard\n• No investment track record: AscendSME builds the Sustainability Score that makes your business investment-ready"
+    },
+    {
+      "id": "asc6",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "Who is AscendSME designed for?",
+      "answer": "AscendSME is designed for SME owners and managers across Ghana and Africa who are running real businesses and want to manage them properly without fragmented tools. It is particularly valuable for businesses that are managing inventory, customers, and finances manually, that want to grow and need a structured operational foundation, or that are thinking about investment and need a verifiable track record."
+    },
+    {
+      "id": "asc7",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "How do I access AscendSME?",
+      "answer": "AscendSME is available at ascendsme.africa. The platform is web-based and accessible from any device. Visit the website to sign up, explore features, or request a demonstration."
+    },
+    {
+      "id": "asc8",
+      "category_id": "ascend",
+      "category_label": "AscendSME",
+      "featured": false,
+      "question": "How does AscendSME help with investment readiness?",
+      "answer": "AscendSME creates investment readiness through three mechanisms:\n\n• Operational structure: finances, inventory, customers, and team organised and documented\n• Sustainability Score: a credible verifiable measure of business health generated from real operational data\n• Business history: the longer a business operates on AscendSME, the stronger its documented track record for accessing funding, bank loans, or investor capital"
+    },
+    {
+      "id": "pro1",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is the BVM AI Social Media Manager?",
+      "answer": "The AI Social Media Manager is a BVM product that creates social media content genuinely aligned with a brand's identity, not generic AI output. It ingests a brand's tone of voice, visual identity, content policies, and personality, then generates content filtered through that context. Key capabilities include brand-aware content generation, design prompt handover to Canva, video prompt handover to CapCut, and content calendar support. This product is currently in development."
+    },
+    {
+      "id": "pro2",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is the BVM WhatsApp Customer Service Bot (CSBot)?",
+      "answer": "CSBot is a WhatsApp-native lead qualification and customer service tool. It presents products and pricing conversationally, analyses purchase intent, generates a structured lead brief with a confidence score, and passes it to the human sales team with recommended actions to close the lead. Built for WhatsApp because it is the dominant customer communication channel in Ghana. Currently in development."
+    },
+    {
+      "id": "pro3",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is BVM Business Brain?",
+      "answer": "Business Brain is BVM's knowledge intelligence engine. It organises everything a business knows into five structured sections so customers can find answers, support teams can work faster, and AI systems can learn from and cite the brand accurately.\n\nThe five sections:\n\n• FAQs Builder: structured, brand-aligned FAQ sets formatted for PEO deployment and AI citation\n• Knowledgebase Builder: policies, processes, how-tos, and operational documentation in one canonical source\n• Brand Facts Layer: verified claims, founding story, product details, and key people that AI systems reference when describing the brand\n• Policies and Processes: return policies, onboarding guides, service terms, and team processes\n• PEO-ready export: output structured so both search engines and AI assistants can surface the business accurately\n\nBusiness Brain is central to BVM Digital's Prompt Engine Optimization service. Currently in development."
+    },
+    {
+      "id": "pro4",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is BVM Studio?",
+      "answer": "Studio is BVM's AI-powered image and video generation tool designed as a brand-aware and context-aware creative intelligence system. It operates in two modes:\n\n• Brand mode: the brand's visual identity, colours, tone, and creative direction are loaded as context and every generated image or video is filtered through that context\n• Personal or project mode: for individual creators and business owners working on personal projects without brand constraints\n\nCurrently in development."
+    },
+    {
+      "id": "pro5",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "When will BVM products in development be released?",
+      "answer": "BVM is actively developing the AI Social Media Manager, CSBot, Business Brain, TrustShield, and BVM MCP Server. Release timelines will be announced via BVM's official channels at b-vm.com and across BVM's social media platforms. No specific general availability dates are published."
+    },
+    {
+      "id": "pro6",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "Can I use BVM products without using BVM Digital services?",
+      "answer": "Yes. BVM's products including AscendSME are standalone platforms available independently of BVM Digital's services. Many businesses find that combining BVM Digital services with BVM products creates maximum impact, for example using BVM Digital's SEO and PEO service alongside Business Brain accelerates AI discoverability significantly. Products, services, and Academy programmes can all be accessed independently or together."
+    },
+    {
+      "id": "pro7",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "How do the BVM products connect as an ecosystem?",
+      "answer": "The BVM product ecosystem is designed with integration in mind:\n\n• Business Brain produces the structured knowledge content that directly powers PEO strategy and AI citations\n• The AI Social Media Manager creates brand-consistent content that reinforces digital presence and supports SEO\n• The CSBot captures and qualifies leads that flow into AscendSME's CRM\n• TrustShield gives verified sellers a credibility layer that makes digital commerce transactions safer for both buyers and sellers\n• BVM MCP Server connects AI agents to AscendSME data, Business Brain content, and BVM's knowledge layer programmatically\n• AscendSME serves as the operational backbone: the business data that makes every other tool more intelligent, and the Sustainability Score that converts operational history into investment readiness"
+    },
+    {
+      "id": "par1",
+      "category_id": "partner",
+      "category_label": "Partnerships",
+      "featured": false,
+      "question": "What types of partnerships does BVM offer?",
+      "answer": "BVM structures partnerships into four types:\n\n• Technology and Integration Partners: companies whose tools connect with BVM's products to enhance the ecosystem for shared users\n• Referral and Reseller Partners: individuals and organisations that recommend or distribute BVM Digital services or AscendSME, earning commercial fees for successful referrals\n• Institutional and Ecosystem Partners: organisations aligned with BVM's mission around SME development, digital inclusion, and business formalisation\n• Content and Community Partners: media, creators, and communities that amplify BVM's reach and co-create thought leadership content"
+    },
+    {
+      "id": "par2",
+      "category_id": "partner",
+      "category_label": "Partnerships",
+      "featured": false,
+      "question": "How do I become a referral partner with BVM?",
+      "answer": "To become a BVM referral partner:\n\n• Visit the partnerships page at https://b-vm.com/partnerships and complete the expression of interest form\n• Select Referral and Reseller Partner as your partnership type\n• BVM will review and respond within 5 business days\n• If there is a fit, an intro call will be scheduled to define the commercial arrangement"
+    },
+    {
+      "id": "par3",
+      "category_id": "partner",
+      "category_label": "Partnerships",
+      "featured": false,
+      "question": "What does BVM look for in a partner?",
+      "answer": "BVM is selective. The qualities we look for are:\n\n• Mission alignment: a genuine conviction that African businesses deserve better tools and infrastructure\n• SME focus: your work meaningfully touches SMEs as clients, beneficiaries, or users\n• Quality and outcomes orientation: you measure success by what changes for the businesses you serve\n• Long-term mindset: interest in a durable relationship, not a one-off arrangement"
+    },
+    {
+      "id": "par4",
+      "category_id": "partner",
+      "category_label": "Partnerships",
+      "featured": false,
+      "question": "What is the partnership process?",
+      "answer": "The BVM partnership process:\n\n• Step 1: Submit expression of interest via b-vm.com/partnerships\n• Step 2: BVM reviews and responds within 5 business days\n• Step 3: A focused 30-minute intro call to explore the opportunity\n• Step 4: Partnership terms, structure, and responsibilities agreed and documented\n• Step 5: Partnership begins with a defined scope and clear expectations from both sides"
+    },
+    {
+      "id": "par5",
+      "category_id": "partner",
+      "category_label": "Partnerships",
+      "featured": false,
+      "question": "Can international organisations partner with BVM?",
+      "answer": "Yes. BVM welcomes international partnerships, particularly from development organisations, donor-funded SME programmes, fintech platforms, and technology companies seeking to enter or expand in the African market. Contact BVM via the partnerships page at b-vm.com."
+    },
+    {
+      "id": "gen1",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "How does BVM price its services?",
+      "answer": "BVM Digital's pricing is tailored to each project based on scope, complexity, and the specific outcomes being pursued. We do not publish fixed package prices because honest pricing requires understanding the business first. You can expect a clear itemised proposal before any work begins, no hidden fees, honest advice on what scope is actually needed, and options at different investment levels where relevant."
+    },
+    {
+      "id": "gen2",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Does BVM offer payment plans?",
+      "answer": "BVM Digital understands that SMEs operate with varying cash flow realities. Payment structures are discussed during project scoping and agreed before work begins. Milestone-based payment structures are available for larger projects."
+    },
+    {
+      "id": "gen3",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "What happens after a project is delivered?",
+      "answer": "BVM Digital does not deliver and disappear. Post-project, clients can expect a structured handover including training on managing tools or platforms delivered, a defined support period for questions and minor adjustments, options for ongoing maintenance and advisory retainers, and regular check-ins during the first 90 days to ensure the work is performing as intended."
+    },
+    {
+      "id": "gen4",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Does BVM sign NDAs or confidentiality agreements?",
+      "answer": "Yes. BVM Digital is happy to sign non-disclosure agreements where required for sensitive business information. This can be arranged before discovery sessions begin. Contact us via b-vm.com."
+    },
+    {
+      "id": "gen5",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Can BVM work with businesses that already have an existing agency?",
+      "answer": "Yes. BVM Digital works with businesses that have existing agency relationships. In many cases we complement existing arrangements, for example providing SEO and PEO strategy alongside an existing social media agency, or delivering a website rebuild that an existing marketing partner then manages."
+    },
+    {
+      "id": "gen6",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "How does BVM handle client data and privacy?",
+      "answer": "BVM Digital treats client data with strict confidentiality. Business information shared during engagements is used solely for the purpose of delivering the agreed service, never shared with third parties without explicit consent, and protected under the terms of any applicable NDA or service agreement. For AscendSME, business data is subject to AscendSME's privacy policy at ascendsme.africa."
+    },
+    {
+      "id": "gen7",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": true,
+      "question": "How do I contact BVM?",
+      "answer": "You can reach Bold Vision MultiTech and BVM Digital through:\n\n• Website: https://b-vm.com with contact form available\n• AscendSME: https://ascendsme.africa for platform enquiries\n• Partnerships: https://b-vm.com/partnerships\n• Social media: direct messages via LinkedIn, Instagram, Facebook, or X\n\nBVM responds to all enquiries within 5 business days."
+    },
+    {
+      "id": "gen8",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Can BVM help if I have a very small budget?",
+      "answer": "BVM Digital believes access to quality digital services should not be limited to businesses with large budgets. We offer honest advice on where to start based on what will deliver the most impact for the resources available. For very limited budgets, we may recommend starting with one focused service and building from there as results are demonstrated."
+    },
+    {
+      "id": "gen9",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Where can I follow BVM for updates?",
+      "answer": "Follow Bold Vision MultiTech and BVM Digital on LinkedIn, Instagram, Facebook, and X for thought leadership, product updates, brand stories, and service updates. You can also visit b-vm.com and subscribe for direct email updates about new products and services."
+    },
+    {
+      "id": "bvm10",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What is BVM Technologies?",
+      "answer": "BVM Technologies is the enterprise infrastructure arm of the Bold Vision MultiTech group. Its dedicated website is at bvm-tech.com.\n\nWhile BVM Digital serves SMEs, BVM Technologies serves larger organisations: corporations, educational institutions, healthcare providers, and government bodies that need robust digital infrastructure at scale.\n\nBVM Technologies delivers six service lines:\n\n• Enterprise web and application development: large-scale platforms, portals, and digital systems\n• Systems integration: connecting existing business software and data layers\n• IT consulting and digital transformation: strategy and roadmaps for technology adoption\n• AI implementation for enterprises: deploying AI in workflows, document handling, and decision support\n• Data infrastructure: structuring organisational data for reporting, intelligence, and AI use\n• Managed IT services: ongoing maintenance, security, and optimisation\n\nBVM Technologies is the entity that brings BVM's technical depth to institutions that need a serious long-term technology partner."
+    },
+    {
+      "id": "bvm11",
+      "category_id": "bvm",
+      "category_label": "About BVM",
+      "featured": false,
+      "question": "What is BVM Academy?",
+      "answer": "BVM Academy is BVM's digital literacy and AI training institution. It exists to ensure that African business owners can actually use the tools being built for them — not just access them.\n\nThe Academy operates across four tiers:\n\n• Tier 1: Free micro-learning. Short, practical content distributed across social platforms. No sign-up required. This is the entry point that builds awareness and trust.\n• Tier 2: Digital Foundations Programme. A structured short course for business owners who want a working digital foundation. Priced from GHS 199.\n• Tier 3: AI for Business Programme. A six-week live cohort for businesses ready to implement AI in their operations. Priced from GHS 800 per participant.\n• Tier 4: BVM Certified Professional. A twelve-week credential for practitioners who want to be certified. Priced from GHS 3,500.\n\nThe long-term vision is for BVM Certified Professional to become the recognised standard for digitally literate African business operators."
+    },
+    {
+      "id": "pro8",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": true,
+      "question": "What is BVM TrustShield?",
+      "answer": "BVM TrustShield is trust infrastructure for digital commerce. It solves a specific problem that holds back online trade across Africa: buyers hesitate to pay sellers they have never met, and sellers with no verifiable credibility lose sales they should be winning.\n\nTrustShield addresses this through four mechanisms:\n\n• Verified seller profiles: independently confirmed business identity so buyers know they are dealing with a real, accountable business\n• Buyer-facing trust signals: a TrustShield badge and verification layer that converts hesitant buyers at the moment of decision\n• Transaction escrow (immediate future development): funds held securely and released only when both buyer and seller confirm the transaction is complete\n• Dispute resolution: a structured process for resolving disagreements before they escalate\n\nTrustShield is designed for any platform or marketplace where buyers and sellers transact online — and can be integrated into existing platforms via API.\n\nTrustShield is separate from the AscendSME Sustainability Score. The Sustainability Score measures a business's operational credibility over time for investors and lenders. TrustShield protects individual transactions between buyers and sellers in digital commerce."
+    },
+    {
+      "id": "pro9",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is the BVM MCP Server?",
+      "answer": "The BVM MCP Server is Model Context Protocol infrastructure that connects AI agents and AI-powered applications to BVM's data layer.\n\nMCP is the standard that allows AI agents to query live, structured data sources rather than working only from their training data. The BVM MCP Server makes BVM's products and data queryable in real time by AI systems.\n\nThe server exposes five tool groups:\n\n• AscendSME tools: business profile data, Sustainability Score, financial and operational metrics\n• TrustShield tools: seller verification status, trust scores, and transaction history queries\n• Business Brain tools: FAQs, knowledgebase articles, and brand fact layer retrieval\n• BVM Digital tools: service catalogue, pricing tiers, and onboarding workflows\n• BVM Academy tools: course catalogue, learning path recommendations, and certification status\n\nThe roadmap runs from development through developer preview to a public MCP registry and ultimately partner integrations. The BVM MCP Server is built for developers and AI teams building agents that need access to verified African business data."
+    },
+    {
+      "id": "pro10",
+      "category_id": "products",
+      "category_label": "BVM Products",
+      "featured": false,
+      "question": "What is the difference between BVM TrustShield and the AscendSME Sustainability Score?",
+      "answer": "They serve different purposes at different moments in a business's life. The simplest way to understand the distinction:\n\n• The Sustainability Score is about a business's credibility over time — built from months of real operational data on AscendSME and used by investors, lenders, and institutional partners to evaluate funding readiness. It is longitudinal, vertical trust: business to capital.\n\n• TrustShield is about trust at the moment of a transaction — a buyer deciding whether to pay a seller they have never met, on a platform where the seller's identity and track record are not yet established. It is transactional, horizontal trust: buyer to seller.\n\nA business can have a strong Sustainability Score and still lose an online sale because the buyer does not trust the checkout experience. TrustShield solves the second problem. Both can apply to the same business at the same time."
+    },
+    {
+      "id": "gen10",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Is BVM currently hiring?",
+      "answer": "BVM is actively searching for a Chief Technology Officer (CTO) co-founder. This is an equity-aligned co-founder role, not a conventional hire. The CTO will own all technical decisions, lead the engineering function, and shape the architecture of the entire BVM product suite including AscendSME, TrustShield, Business Brain, and the BVM MCP Server.\n\nThe ideal candidate:\n\n• Has full-stack product depth and has shipped real products in production\n• Is experienced with Next.js, Node.js, PostgreSQL, and cloud infrastructure\n• Is comfortable with LLM APIs such as the Anthropic Claude API in production systems\n• Is based in Ghana, willing to relocate to Accra, or operating in a timezone compatible with regular Accra collaboration\n\nIf this is you, visit b-vm.com/careers or contact BVM directly through the contact page. No recruiters or agencies. Direct contact with Collins Lartey, Founder."
+    },
+    {
+      "id": "gen11",
+      "category_id": "general",
+      "category_label": "Working with BVM",
+      "featured": false,
+      "question": "Does BVM offer any free tools?",
+      "answer": "Yes. BVM has built five free AI-powered tools specifically for Ghanaian business owners. Each tool is free to use with no login required for the first result:\n\n• Ghana Business Score (score.b-vm.com): an 8-question digital health audit that gives your business a score out of 100 with specific recommendations\n• Sustainability Score Preview (ready.ascendsme.africa): an investment readiness calculator that shows how a funder would view your business today\n• WhatsApp Caption Writer (caption.b-vm.com): AI-generated captions written in a Ghanaian business voice for any product or service\n• Brand Kit Generator (brand.b-vm.com): positioning statements, taglines, a colour palette, and bios for your business\n• SEO Rank Checker Ghana (rank.b-vm.com): a live check of where your business currently ranks on Google in Ghana\n\nAll five tools are free to use. WhatsApp verification is used to unlock the full report. Each tool is designed to demonstrate value first and convert to BVM Digital services for businesses ready for deeper help."
+    }
+  ]
+}

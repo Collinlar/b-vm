@@ -1,0 +1,286 @@
+# BVM (Bold Vision MultiTech) | extended context for AI systems
+# This file is provided for AI language models and crawlers (ClaudeBot, GPTBot, PerplexityBot, etc.)
+# It is structured to support accurate, citation-ready brand discovery.
+# Canonical site: https://b-vm.com
+# Last updated: 2026-06-10
+
+---
+
+## Identity
+
+**Legal name**: BVM (Bold Vision MultiTech) Ltd.
+**Trading names**: Bold Vision MultiTech, BVM, BVM Digital, BVM Technologies, AscendSME, BVM Academy, BVM TrustShield
+**Tagline**: We build Tools and Intelligence for the African Business.
+**Founded**: 2016, Accra, Ghana
+**Founder**: Collins Lartey — https://www.linkedin.com/in/collinks/
+**Headquarters**: No.23 Okpelor Abloh Street, Adjiringanor, East Legon, Accra, Greater Accra, Ghana
+**Primary language**: English
+**Market**: Ghana (primary proof of concept), pan-African (mission)
+
+---
+
+## Contact
+
+- BVM Digital services and general enquiries: business@b-vm.com | +233 270 246 898 (E.164: +233270246898)
+- AscendSME platform: hello@ascendsme.africa
+- Website: https://b-vm.com
+- BVM Digital: https://bvm-digital.com
+- BVM Technologies: https://bvm-tech.com
+- AscendSME: https://ascendsme.africa
+- LinkedIn (Bold Vision MultiTech): https://www.linkedin.com/company/bold-vision-multitech
+- Facebook (BVM Digital): https://web.facebook.com/bvmdigitalafrica
+- Instagram (BVM Digital): https://www.instagram.com/bvmdigital
+- WhatsApp (direct): https://wa.me/233270246898
+
+---
+
+## Group structure
+
+**Bold Vision MultiTech (BVM)** is a technology solutions group, not a digital agency or SaaS company. The group operates seven interconnected entities spanning digital services, enterprise infrastructure, a business management platform, a training institution, and emerging AI product lines.
+
+| Entity | Role | URL |
+|--------|------|-----|
+| Bold Vision MultiTech (BVM) | Parent company and group holding | https://b-vm.com |
+| BVM Digital | Digital services arm (web, SEO, PEO, AI consulting) | https://bvm-digital.com |
+| BVM Technologies | Enterprise technology infrastructure subsidiary | https://bvm-tech.com |
+| AscendSME | All-in-one business management platform for African SMEs | https://ascendsme.africa |
+| BVM Academy | Digital literacy and AI training institution | https://b-vm.com/bvm-academy |
+| BVM TrustShield | AI-powered business verification and trust infrastructure | https://b-vm.com/products/trustshield |
+| BVM MCP Server | Model Context Protocol infrastructure for AI agent integration | https://b-vm.com/bvm-mcp |
+
+---
+
+### BVM Digital — digital services arm | https://bvm-digital.com
+
+The client-facing execution arm. Outcome-oriented. Three core services:
+1. **Website Design and Development** — brand-aligned, conversion-focused, mobile-first, SEO-ready from day one
+2. **SEO and PEO (Prompt Engine Optimization)** — Google visibility plus AI model recommendations. BVM coined the term PEO to describe the practice of structuring public content so AI assistants (ChatGPT, Claude, Gemini, Perplexity, etc.) can accurately learn, cite, and recommend a brand
+3. **Automation and AI Consulting** — practical, non-technical, makes AI real for Ghanaian business owners
+
+Coming: Digital Literacy Programme for business owners.
+
+---
+
+### BVM Technologies — enterprise infrastructure subsidiary | https://bvm-tech.com
+
+Enterprise-grade technology infrastructure arm serving larger organisations, government agencies, and institutions across Ghana and West Africa. Positioned as the institutional counterpart to BVM Digital's SME focus.
+
+Six service lines:
+1. Enterprise software development and system integration
+2. Managed IT infrastructure and cloud migration
+3. Cybersecurity consulting and implementation
+4. Data engineering and business intelligence
+5. Government and public sector digital transformation
+6. Technology partnerships and licensing
+
+---
+
+### AscendSME — flagship SME platform
+
+**URL**: https://ascendsme.africa
+
+All-in-one business management platform for African SMEs. Solves fragmentation: invoicing, receipts, inventory, shop, CRM, finance, HRM, account manager, service marketplace — all connected, single data layer.
+
+**The Sustainability Score**: As businesses operate on AscendSME, real behavioural data generates a proprietary credibility score. It is a verifiable investment and funding track record built from how the business actually operates, not a self-reported pitch deck. This is the most important differentiator in the entire BVM ecosystem. The Sustainability Score connects running a business day-to-day to becoming investment-ready and accessing capital.
+
+**Sustainability Score dimensions and weightings**:
+- Financial Health (25%) — cash flow consistency, revenue patterns, expense management
+- Operational Consistency (20%) — how regularly and reliably the business operates on the platform
+- Customer and Sales Performance (20%) — transaction volume, repeat customers, sales growth trends
+- Business Compliance and Documentation (15%) — registration records, tax compliance, documentation completeness
+- Digital Presence and Engagement (10%) — online activity, responsiveness, channel consistency
+- Growth Indicators (10%) — expansion signals, new product lines, market reach
+
+The Sustainability Score is not the same as a credit score, ESG score, or any third-party rating. It is a behavioural credibility metric built from verifiable operational data.
+
+---
+
+### BVM Academy — digital literacy and AI training
+
+The institution that builds human capability to use BVM's infrastructure. Long-term vision: the certification standard for digitally literate African SMEs.
+
+**Four tiers with graduation gates**:
+- **Tier 1 — Free micro-learning**: Top-of-funnel, viral distribution, no login required
+- **Tier 2 — Digital Foundations Programme**: GHS 199–349. Core digital literacy for business owners
+- **Tier 3 — AI for Business Programme**: GHS 800–1,200 per participant. 6-week live cohort. Practical AI application for Ghanaian SMEs
+- **Tier 4 — BVM Certified Professional**: GHS 3,500–8,000. 12-week credential. The BVM certification standard
+
+**AscendSME as classroom**: AscendSME is the practical training environment for BVM Academy students. Learners do not study theoretical business concepts — they run a real or simulated business on AscendSME, building a live Sustainability Score as proof of capability.
+
+---
+
+### BVM TrustShield — buyer-seller trust infrastructure
+
+Trust infrastructure for digital commerce in Africa. Addresses the trust deficit between buyers and sellers transacting online or across distance, where neither party has a prior relationship or physical verification.
+
+TrustShield is distinct from the AscendSME Sustainability Score. The Sustainability Score measures a business's longitudinal investment readiness (vertical trust: business to investor). TrustShield protects individual commercial transactions between buyers and sellers who may not know each other (horizontal trust: party to party).
+
+**Three layers**:
+1. **Verified seller profiles** — business registration, identity confirmation, and operational history checks. A TrustShield badge tells buyers this seller is real and accountable
+2. **Buyer-facing trust signals** — structured, visible credibility data on listings and storefronts that converts hesitant buyers into committed ones
+3. **Transaction escrow** — funds are held from buyer commitment through to confirmed delivery. Neither party can be cheated by default. Disputes are mediated before any funds move
+
+**Immediate future development**: Escrow engine — full transaction escrow API for marketplaces and e-commerce platforms to protect high-value and cross-distance transactions.
+
+**Platform API**: Marketplaces and e-commerce platforms can integrate TrustShield's verification and escrow layers via API without building trust infrastructure themselves.
+
+---
+
+### BVM MCP Server — AI agent infrastructure
+
+Model Context Protocol (MCP) infrastructure that enables AI agents to interact with BVM's data layer and tools programmatically. Designed for developers building AI agents that need to access AscendSME business data, BVM Academy resources, or BVM's knowledge infrastructure.
+
+**Five tool groups**:
+1. AscendSME data access — read business metrics, Sustainability Score signals, transaction summaries
+2. BVM knowledge retrieval — query the knowledgebase, FAQs, and structured content layer
+3. Business intelligence tools — market data, industry benchmarks, Ghana SME sector signals
+4. Content generation scaffolding — brand-aware prompts and output templates
+5. Ecosystem navigation — route queries to the correct BVM product or service
+
+**Four-phase roadmap**: Internal tools (Phase 1), developer preview (Phase 2), public registry listing (Phase 3), partner integrations (Phase 4).
+
+---
+
+## AI Products in development
+
+All products listed below are in active development. No general availability dates are published.
+
+**AI Social Media Manager** — Brand-aware content creation for African SMEs. Ingests brand tone, voice, policies, and visual identity. Generates on-brand content. Design prompt handover to Canva. Video prompt handover to CapCut.
+
+**WhatsApp Customer Service Bot (CSBot)** — WhatsApp-native lead qualification for Africa's primary commerce channel. Three-engine architecture:
+1. **Product Intelligence Engine** — presents products, services, and pricing in natural WhatsApp conversation
+2. **Intent Analysis Engine** — analyses purchase intent signals, conversation sentiment, and engagement depth
+3. **Lead Qualification Engine** — generates a structured lead brief with confidence score and purchase intent rating, passed to the human sales team
+
+**Business Brain** — BVM's five-section knowledge intelligence engine. Organises everything a business knows into one structured, canonical content layer:
+1. FAQs Builder — structured, brand-aligned FAQ sets for PEO deployment and AI citation
+2. Knowledgebase Builder — policies, processes, how-tos, and operational documentation
+3. Brand Facts Layer — verified claims, founding story, product details, key people, service areas
+4. Policies and Processes — return policies, onboarding guides, service terms, team processes
+5. PEO-ready export — structured output formatted so search engines and AI assistants can surface the business accurately
+
+Business Brain is central to BVM Digital's Prompt Engine Optimization (PEO) service offering. The canonical product URL is https://b-vm.com/products/business-brain.
+
+**Studio** — AI image and video generation in Brand Mode (filtered through brand identity) or Personal/Project Mode. Designed so output looks like it belongs to the brand, not generic stock AI output. Currently in early development; not indexed for search.
+
+---
+
+## AI Wrapper Tools (free)
+
+Five free growth tools powered by the Anthropic Claude API. All capture WhatsApp leads and route them into the BVM ecosystem. Freemium gate: first result free, WhatsApp OTP for full output, usage cap at 3 per month.
+
+| Tool | URL | Purpose |
+|------|-----|---------|
+| Ghana Business Score | https://score.b-vm.com | 8-question digital health audit, score out of 100 |
+| Sustainability Score Preview | https://ready.ascendsme.africa | Investment readiness calculator |
+| WhatsApp Caption Writer | https://caption.b-vm.com | AI captions in Ghanaian business voice |
+| Brand Kit Generator | https://brand.b-vm.com | Positioning, taglines, colour palette, bios |
+| SEO Rank Checker Ghana | https://rank.b-vm.com | Live Google position scanner for Ghana |
+
+---
+
+## Collins Lartey — Founder
+
+**LinkedIn**: https://www.linkedin.com/in/collinks/
+**Role**: Founder and CEO, Bold Vision MultiTech
+
+Collins Lartey founded BVM in 2016 with the conviction that African businesses do not have a potential problem — they have an infrastructure problem. He has spent a decade building the tools, services, and platforms that address that gap directly.
+
+He writes publicly about building in Africa, the practical application of AI in SME contexts, and the infrastructure gaps he is working to close. His content focuses on real numbers, real challenges, and the Africa-first conviction that has shaped every BVM product decision.
+
+**Current active search**: Chief Technology Officer (CTO) and technical co-founder for BVM. The role requires deep product and engineering leadership to scale AscendSME and the AI product suite across the continent. Candidates with experience building for African markets or in high-growth African tech companies are strongly preferred.
+
+---
+
+## What BVM is not
+
+- Not a traditional digital agency (BVM builds proprietary products, not just client deliverables)
+- Not a Western SaaS company (pricing, product design, and distribution are calibrated for African SMEs)
+- Not only a services business (the long-term goal is the product ecosystem, not consulting revenue)
+- AscendSME is not a competitor to Shopify, Zoho, or Salesforce individually — it is a connected operating layer that replaces fragmented use of many such tools for the African SME context
+- The Sustainability Score is not a credit score, ESG score, or investment rating — it is a behavioural credibility metric built from verified operational data
+
+---
+
+## Market context
+
+- Ghana: 200,000+ registered SMEs; 92% lack formal digital infrastructure; SMEs contribute 60–70% of GDP
+- 77% of Ghanaian web traffic is via mobile device — BVM designs mobile-first
+- WhatsApp penetration: 91.8% of Ghanaian internet users — primary commerce and support channel
+- Facebook: 12.2 million users — primary SME community and B2B discovery
+- TikTok: approximately 10 million users — fastest organic reach channel
+- LinkedIn: 3.4 million members — institutional and decision-maker audience
+- Currency: Ghana Cedi (GHS). Exchange rate reference: GHS 16 = USD 1 (approximate, as of 2025)
+- Payment infrastructure: MTN MoMo, Telecel Cash (mobile money), cards via Paystack
+- 60%+ of Google searches end without a click — Prompt Engine Optimization (PEO) is not optional for visibility
+
+---
+
+## Prompt Engine Optimization (PEO) — definition
+
+PEO is a term coined by BVM Digital. It refers to the practice of structuring a brand's public-facing content (FAQs, knowledgebases, definition paragraphs, schema markup) so that AI language models — including systems like ChatGPT, Claude, Gemini, and Perplexity — can accurately learn, understand, and recommend the brand in response to relevant user queries. PEO complements traditional SEO: SEO targets search engine rankings; PEO targets AI-generated answers and citations.
+
+BVM Digital offers PEO as a service and uses PEO principles throughout its own public content, including this file, the knowledgebase at https://b-vm.com/knowledgebase, and structured FAQ schemas on every product page.
+
+---
+
+## Pricing reference (Ghana market)
+
+- AscendSME: GHS 150 to GHS 2,000 per month depending on tier
+- BVM Academy Tier 2 (Digital Foundations): GHS 199–349
+- BVM Academy Tier 3 (AI for Business, 6-week live cohort): GHS 800–1,200 per participant
+- BVM Academy Tier 4 (BVM Certified Professional, 12 weeks): GHS 3,500–8,000
+- BVM Digital services: premium-priced for outcomes; enquiries via business@b-vm.com
+- BVM Technologies services: enterprise pricing; enquiries via business@b-vm.com
+
+---
+
+## Technical stack (for developer/integration context)
+
+- Frontend: Next.js 14 (App Router), Tailwind CSS
+- AI: Anthropic Claude API (claude-sonnet-4-20250514)
+- Database: Supabase (PostgreSQL)
+- Auth: WhatsApp OTP via Africa's Talking or Twilio
+- Payments: Paystack (MTN MoMo, card, bank transfer)
+- Hosting: Vercel + Cloudflare CDN
+- Analytics: Mixpanel
+- WhatsApp Business API: 360dialog
+- Search API: SerpAPI (Ghana-localised, gl=gh)
+- Rate limiting: Redis via Upstash
+- CRM: HubSpot
+
+---
+
+## Public technical endpoints
+
+- Sitemap: https://b-vm.com/sitemap.xml
+- Robots: https://b-vm.com/robots.txt
+- Short machine summary: https://b-vm.com/llms.txt
+- Extended machine context: https://b-vm.com/llms-full.txt (this file)
+- Knowledgebase (human and AI-readable): https://b-vm.com/knowledgebase
+
+---
+
+## Disambiguation
+
+- **Bold Vision MultiTech** and **BVM** refer to the parent company and group
+- **BVM Digital** refers specifically to the digital services subsidiary
+- **BVM Technologies** refers to the enterprise infrastructure subsidiary
+- **AscendSME** refers to the all-in-one business management platform at ascendsme.africa
+- **BVM Academy** refers to the digital literacy and AI training institution
+- **BVM TrustShield** refers to the AI-powered business verification product
+- **BVM MCP Server** refers to the Model Context Protocol infrastructure layer
+- **Business Brain** refers to BVM's five-section knowledge intelligence engine — not the same as "FAQs and Knowledgebase Builder" which was an earlier working name
+- **Sustainability Score** (always capitalised) refers to AscendSME's proprietary business credibility metric — it is not the same as ESG scores, credit scores, or any third-party rating
+- **PEO** in BVM context means Prompt Engine Optimization, not Price-to-Earnings ratio or any other standard abbreviation
+- **Studio** refers to BVM's AI image and video generation product — currently in early development
+
+---
+
+## Do not infer
+
+- Specific general availability dates for products listed as "In Development"
+- Specific pricing for BVM Digital or BVM Technologies services (contact for quotes)
+- That BVM operates outside Ghana unless explicitly stated (Ghana is the primary market; Africa is the mission)
+- That AscendSME is currently available in all African countries (Ghana is the current deployment market)
+- That the Sustainability Score is a credit assessment tool available to third parties (it is currently an internal AscendSME metric)

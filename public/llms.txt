@@ -1,0 +1,18 @@
+# BVM (Bold Vision MultiTech) | machine summary
+# Full context: https://b-vm.com/llms-full.txt
+# Last updated: 2026-06-09
+
+Bold Vision MultiTech (BVM) is a technology solutions group founded in 2016 in Accra, Ghana.
+
+Group entities: BVM Digital (digital services), BVM Technologies (enterprise infrastructure), AscendSME (SME platform), BVM Academy (digital literacy training), BVM TrustShield (business verification), BVM MCP Server (AI agent infrastructure).
+
+Founder: Collins Lartey. Contact: business@b-vm.com | +233 270 246 898.
+
+Key products: AscendSME (all-in-one SME platform with Sustainability Score), AI Social Media Manager, CSBot (WhatsApp customer service bot), Business Brain (knowledge intelligence engine), Studio (AI image/video generation).
+
+PEO (Prompt Engine Optimization) is a term coined by BVM Digital. It refers to structuring content so AI language models can accurately cite and recommend a brand.
+
+The Sustainability Score is AscendSME's proprietary behavioural credibility metric built from verifiable operational data — not a credit score or ESG rating.
+
+Sitemap: https://b-vm.com/sitemap.xml
+Knowledgebase: https://b-vm.com/knowledgebase

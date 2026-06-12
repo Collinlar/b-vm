@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 3%;
+    --foreground: 0 0% 100%;
+
+    --card: 0 0% 8%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 29 100% 55%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 181 100% 40%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 0 0% 12%;
+    --muted-foreground: 0 0% 70%;
+
+    --accent: 181 100% 40%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 10%;
+    --ring: 29 100% 55%;
+
+    --radius: 1rem;
+
+    --gradient-nude-start: 0 0% 5%;
+    --gradient-nude-end: 0 0% 10%;
+    --gradient-dark-start: 0 0% 3%;
+    --gradient-dark-end: 0 0% 8%;
+    --gradient-orange-start: 29 100% 60%;
+    --gradient-orange-end: 29 100% 50%;
+    --gradient-teal-start: 181 100% 45%;
+    --gradient-teal-end: 181 100% 35%;
+
+    --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.5);
+    --shadow-medium: 0 8px 40px rgba(0, 0, 0, 0.6);
+    --shadow-strong: 0 12px 60px rgba(0, 0, 0, 0.7);
+    --shadow-glow-orange: 0 0 50px rgba(255, 122, 0, 0.5);
+    --shadow-glow-teal: 0 0 50px rgba(0, 155, 158, 0.5);
+  }
+
+  .dark {
+    --background: 0 0% 7%;
+    --foreground: 30 50% 93%;
+    --card: 0 0% 10%;
+    --card-foreground: 30 50% 93%;
+    --popover: 0 0% 7%;
+    --popover-foreground: 30 50% 93%;
+    --primary: 29 100% 50%;
+    --primary-foreground: 0 0% 7%;
+    --secondary: 181 100% 31%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+    --accent: 181 100% 31%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 20%;
+    --input: 0 0% 15%;
+    --ring: 29 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold;
+  }
+}
+
+@layer utilities {
+  .gradient-nude {
+    background: linear-gradient(135deg, hsl(var(--gradient-nude-start)), hsl(var(--gradient-nude-end)));
+  }
+  .gradient-dark {
+    background: linear-gradient(135deg, hsl(var(--gradient-dark-start)), hsl(var(--gradient-dark-end)));
+  }
+  .gradient-orange {
+    background: linear-gradient(135deg, hsl(var(--gradient-orange-start)), hsl(var(--gradient-orange-end)));
+  }
+  .gradient-teal {
+    background: linear-gradient(135deg, hsl(var(--gradient-teal-start)), hsl(var(--gradient-teal-end)));
+  }
+  .gradient-hero {
+    background: linear-gradient(135deg, hsl(var(--gradient-nude-start)) 0%, hsl(var(--gradient-dark-end)) 100%);
+  }
+  .text-gradient-orange {
+    background: linear-gradient(135deg, hsl(var(--gradient-orange-start)), hsl(var(--gradient-orange-end)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-teal {
+    background: linear-gradient(135deg, hsl(var(--gradient-teal-start)), hsl(var(--gradient-teal-end)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .animate-float { animation: float 6s ease-in-out infinite; }
+  .animate-fade-up { animation: fade-up 0.8s ease-out forwards; opacity: 0; }
+  .animate-slide-in { animation: slide-in 0.6s ease-out forwards; opacity: 0; }
+  .animate-scale-in { animation: scale-in 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards; }
+  .hover-lift { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+  .hover-lift:hover { transform: translateY(-8px); box-shadow: var(--shadow-medium); }
+  .hover-glow-orange { transition: all 0.3s ease; }
+  .hover-glow-orange:hover { box-shadow: var(--shadow-glow-orange); transform: scale(1.02); }
+  .hover-glow-teal { transition: all 0.3s ease; }
+  .hover-glow-teal:hover { box-shadow: var(--shadow-glow-teal); transform: scale(1.02); }
+  .card-hover { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+  .card-hover:hover { transform: translateY(-4px); box-shadow: var(--shadow-strong); }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes slide-in {
+    from { opacity: 0; transform: translateX(-30px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes scale-in {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+  }
+}
+
+/* TipTap editor */
+.tiptap { outline: none; }
+.tiptap p.is-editor-empty:first-child::before {
+  color: hsl(var(--muted-foreground));
+  content: attr(data-placeholder);
+  float: left;
+  height: 0;
+  pointer-events: none;
+}
+.tiptap h1 { @apply text-3xl font-bold mt-6 mb-4; }
+.tiptap h2 { @apply text-2xl font-bold mt-5 mb-3; }
+.tiptap h3 { @apply text-xl font-semibold mt-4 mb-2; }
+.tiptap p { @apply my-3 leading-relaxed; }
+.tiptap ul { @apply list-disc pl-6 my-4; }
+.tiptap ol { @apply list-decimal pl-6 my-4; }
+.tiptap li { @apply my-1; }
+.tiptap blockquote { @apply border-l-4 border-primary pl-4 italic my-4 text-muted-foreground; }
+.tiptap code { @apply bg-muted px-1.5 py-0.5 rounded text-sm font-mono; }
+.tiptap pre { @apply bg-muted p-4 rounded-lg my-4 overflow-x-auto; }
+.tiptap pre code { @apply bg-transparent p-0; }
+.tiptap a { @apply text-primary underline hover:no-underline; }
+.tiptap img { @apply rounded-lg max-w-full my-4; }
+.tiptap hr { @apply border-t border-border my-6; }
+.tiptap strong { @apply font-bold; }
+.tiptap em { @apply italic; }
+.tiptap u { @apply underline; }
+.tiptap s { @apply line-through; }
