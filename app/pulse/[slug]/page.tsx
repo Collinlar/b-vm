@@ -24,9 +24,10 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-  const post = await getBlogPost(params.slug);
+  const { slug } = await params;
+  const post = await getBlogPost(slug);
   if (!post) return { title: "Article Not Found" };
 
   const title = post.meta_title || post.title;
@@ -58,8 +59,9 @@ export async function generateMetadata({
   };
 }
 
-export default async function PulseArticle({ params }: { params: { slug: string } }) {
-  const post = await getBlogPost(params.slug);
+export default async function PulseArticle({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const post = await getBlogPost(slug);
   if (!post) notFound();
 
   const relatedPosts = await getRelatedPosts(post.category, post.id);
